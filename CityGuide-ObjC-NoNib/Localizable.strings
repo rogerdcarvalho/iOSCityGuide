@@ -1,0 +1,14 @@
+//Tab bar names
+"SIGHTS_TITLE" = "Sights";
+"MAP_TITLE" = "Map";
+"WEB_TITLE" = "More";
+
+//Other strings
+"LOADING_TITLE" = "Loading";
+"NAVIGATION_TITLE" = "Navigate?";
+"NAVIGATION_BUTTON" = "Navigate here";
+"NAVIGATION_CONFIRMATION_TEXT" = "Would you like to switch to Apple Maps to navigate to this location?";
+"OK_BUTTON" = "OK";
+"CANCEL_BUTTON" = "Cancel";
+"SHOW_IN_MAP_BUTTON" = "Show on map";
+"DEFAULT_URL" = "http://www.discoverlosangeles.com";

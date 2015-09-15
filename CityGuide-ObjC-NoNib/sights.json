@@ -1,0 +1,85 @@
+[{
+  "id":"1",
+  "name": "Outdoors",
+  "items":
+    [{
+    "id":"1",
+    "name":"The Hollywood Sign",
+    "shortDesc":"The one thing everyone wants to see",
+    "longDesc":"The Hollywood Sign (formerly the Hollywoodland Sign) is a landmark and American cultural icon located in Los Angeles, California. It is situated on Mount Lee in the Hollywood Hills area of the Santa Monica Mountains. The sign overlooks Hollywood, Los Angeles.\n\nHOLLYWOOD is spelled out in 45-foot-tall (14 m) white capital letters, and is 350 feet (110 m) long. It was originally created in 1923 as an advertisement for a local real estate development, but it garnered increasing recognition after the sign was left up. The sign was a frequent target of pranks and vandalism, but it has since undergone restoration, including the installation of a security system to deter vandalism. The sign is protected and promoted by The Trust For Public Land, a nonprofit organization, while its site and the surrounding land is part of Griffith Park.\n\n From the ground, the contours of the hills give the sign its wavy appearance, as reflected in the Hollywood Video logo, for example. When observed at a comparable altitude, the letters appear nearly level.\n\nThe sign makes frequent appearances in popular culture, particularly in establishing shots for films and television programs set in or around Hollywood. Signs of similar style, but spelling different words, are frequently seen as parodies.\n\nThe sign was the location of the 1932 death of Hollywood starlet Peg Entwistle.",
+    "lat":"34.1341",
+    "long":"-118.321",
+    "image":"http:\/\/i.dailymail.co.uk\/i\/pix\/2011\/02\/25\/article-1360323-0257C58900000578-853_468x330.jpg"
+    },
+    {"id":"2",
+    "name":"Venice beach",
+    "shortDesc":"Why not hang out at the beach while in LA?",
+    "longDesc":"Venice Beach, which receives millions of visitors a year, has been labeled as a cultural hub known for its eccentricities, as well as a global tourist destination. It includes the promenade that runs parallel to the beach, Muscle Beach, the handball courts, the paddle tennis courts, Skate Dancing plaza, the numerous beach volleyball courts, the bike trail and the businesses on Ocean Front Walk.",
+    "lat":"33.978154",
+    "long":"-118.466939",
+    "image":"http:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/03\/1a\/16\/b8\/venice-beach-boardwalk.jpg"
+    },
+    {"id":"3",
+    "name":"Griffith Observatory",
+    "shortDesc":"See the beauty of LA from up above",
+    "longDesc":"Griffith Observatory is a facility in Los Angeles, California sitting on the south-facing slope of Mount Hollywood in Los Angeles Griffith Park. It commands a view of the Los Angeles Basin, including Downtown Los Angeles to the southeast, Hollywood to the south, and the Pacific Ocean to the southwest. The observatory is a popular tourist attraction with an extensive array of space and science-related displays. Admission is free.",
+    "lat":"34.1186",
+    "long":"-118.3004",
+    "image":"http:\/\/www.digistardomes.org\/worldlist\/griffith.jpg"
+    },
+    {
+    "id":"4",
+    "name":"West Hollywood Park",
+    "shortDesc":"Such a small park, but it packs a punch. It has so many activities, a pool, a library, basketball, areas for soccer, or volleyball.",
+    "longDesc":"Such a small park, but it packs a punch. It has so many activities, a pool, a library, basketball, areas for soccer, or volleyball.\n\nThe new library is a great summer destination if you need a little break from the sun. Thumb through some books and magazines in the midst of wonderful decor, architecture, natural lighting and great city views. Kids will enjoy the Children’s Theatre and Reading Room. You can grab coffee and a bite to eat in the cafe downstairs, and West Hollywood Park and the Pacific Design Center are right next door.",
+    "lat":"34.082794",
+    "long":"-118.384459",
+    "image":"http:\/\/instinctmagazine.com\/sites\/instinctmagazine.com\/files\/images\/blog_posts\/Nigel%20Campbell\/2015\/02\/13\/west%20hollywood%20park.jpg"
+    }]
+ },
+ {
+ "id":"2",
+ "name": "Entertainment",
+ "items":
+    [{
+    "id":"5",
+    "name":"The Staples Center",
+    "shortDesc":"Staples Center is a large multi-purpose sports arena in Downtown Los Angeles.",
+    "longDesc":" Adjacent to the L.A. Live development, it is located next to the Los Angeles Convention Center complex along Figueroa Street. Opening on October 17, 1999, it is one of the major sporting facilities in the Greater Los Angeles Area.\n\nIt is owned and operated by the L.A. Arena Company and Anschutz Entertainment Group. The arena is home to the Los Angeles Lakers and the Los Angeles Clippers of the National Basketball Association (NBA), the Los Angeles Kings of the National Hockey League (NHL), and the Los Angeles Sparks of the Women's National Basketball Association (WNBA). The Los Angeles Avengers of the Arena Football League (AFL) and the Los Angeles D-Fenders of the NBA D-League were also tenants until both franchises were discontinued; the D-Fenders moved to the Lakers' practice facility at the Toyota Sports Center in El Segundo, California for the 2011–12 season. Staples Center is also host to over 250 events and nearly 4 million guests each year.It is the only arena in the NBA shared by two teams.",
+    "lat":"34.0431",
+    "long":"-118.2672",
+    "image":"http:\/\/174.133.251.130\/~gettlimo\/staples_center-limo.jpg"
+    },
+    {"id":"6",
+    "name":"TCL Chinese Theatre",
+    "shortDesc":"Visit the third largest commercial movie screen in North America.",
+    "longDesc":"TCL Chinese Theatre is a cinema palace on the historic Hollywood Walk of Fame at 6925 Hollywood Boulevard in Hollywood, California, United States. Originally known (and still commonly referred to) as Grauman's Chinese Theatre and renamed Mann's Chinese Theatre in 1973; the current name of the theatre became official January 11, 2013, after TCL Corporation purchased the naming rights. This resulted in the first affiliation of the Chinese Theatre with an actual Chinese corporation.\n\nThe original Chinese Theatre was commissioned following the success of the nearby Grauman's Egyptian Theatre, which opened in 1922. Built by a partnership headed by Sid Grauman over 18 months starting in January 1926, the theatre opened May 18, 1927, with the premiere of Cecil B. DeMille's film The King of Kings. It has since been home to many premieres, including the 1977 launch of George Lucas' Star Wars,[4] as well as birthday parties, corporate junkets, and three Academy Awards ceremonies. Among the theatre's most distinctive features are the concrete blocks set in the forecourt, which bear the signatures, footprints, and handprints of popular motion picture personalities from the 1920s to the present day.\n\nThe TCL Chinese Theatre has partnered with IMAX Corporation to create the single largest IMAX auditorium in the world. The new theatre seats 932 people, and hosts the third largest commercial movie screen in North America.",
+    "lat":"34.101842",
+    "long":"-118.340739",
+    "image":"http:\/\/cdn2-b.examiner.com\/sites\/default\/files\/styles\/image_content_width\/hash\/e7\/99\/e79915bb67c7bf313fa10070839e0a84.JPG?itok=DHvQcoWp"
+    }]
+ 
+ },
+{
+"id" : "3",
+"name" : "Cultural",
+"items" :
+    [{
+    "id":"7",
+    "name":"UCLA",
+    "shortDesc":"One of the world's top universities is located right here in Los Angeles",
+    "longDesc":"The University of California, Los Angeles (UCLA) is a public research university located in the Westwood neighborhood of Los Angeles, California, United States. It became the University of California Southern Branch in 1919, making it the second-oldest undergraduate campus of the ten-campus system after the original University of California campus in Berkeley (1873). It offers 337 undergraduate and graduate degree programs in a wide range of disciplines. With an approximate enrollment of 30,000 undergraduate and 12,000 graduate students, UCLA has the highest enrollment of any university in California and is the most applied to university in the United States with over 112,000 applications for fall 2015.\n\nThe university is organized into five undergraduate colleges, seven professional schools, and four professional health science schools. The undergraduate colleges are the College of Letters and Science; Henry Samueli School of Engineering and Applied Science (HSSEAS); School of the Arts and Architecture; School of Theater, Film, and Television; and School of Nursing. Fifteen Nobel laureates, one Fields Medalist, and three Turing Award winners have been faculty, researchers, or alumni. Among the current faculty members, 55 have been elected to the National Academy of Sciences, 28 to the National Academy of Engineering, 39 to the Institute of Medicine, and 124 to the American Academy of Arts and Sciences. The university was elected to the Association of American Universities in 1974.",
+    "lat":"34.068921",
+    "long":"-118.445181",
+    "image":"http:\/\/raisingcaliforniatogether.org\/wp-content\/uploads\/2013\/10\/roycelarge.jpg"
+    },
+    {
+    "id":"8",
+    "name":"La Brea Tar Pits",
+    "shortDesc":"Check out this group of tar pits around which Hancock Park was formed",
+    "longDesc":"The La Brea Tar Pits (or Rancho La Brea Tar Pits) are a group of tar pits around which Hancock Park was formed, in urban Los Angeles. Natural asphalt (also called asphaltum, bitumen, pitch or tar—brea in Spanish) has seeped up from the ground in this area for tens of thousands of years. The tar is often covered with dust, leaves, or water. Over many centuries, the bones of animals that were trapped in the tar were preserved. The George C. Page Museum is dedicated to researching the tar pits and displaying specimens from the animals that died there. The La Brea Tar Pits is a registered National Natural Landmark.",
+    "lat":"34.063788",
+    "long":"-118.355434",
+    "image":"https:\/\/d1u1p2xjjiahg3.cloudfront.net\/f9f6b571-c578-4515-ba16-3de0a68a6f05.jpg"
+    }]
+ }]
